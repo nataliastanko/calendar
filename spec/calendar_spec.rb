@@ -2,7 +2,7 @@
 
 require_relative '../lib/calendar_tools'
 
-RSpec.describe CalendarMonth do
+RSpec.describe Calendar do
   subject(:cal) { described_class.new }
 
   let(:jan2021) { described_class.new(2021, 1) }

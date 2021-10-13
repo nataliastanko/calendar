@@ -16,7 +16,7 @@ Example:
 # Requirements
 
     bundle install
-    chmod o+x ./bin/calendar_month
+    chmod o+x ./bin/calendar
 
 # Run
 

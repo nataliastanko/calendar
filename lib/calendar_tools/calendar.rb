@@ -2,13 +2,13 @@
 
 ##
 # Calendar for current month
-class CalendarMonth
-  # Create a new instance of CalendarMonth
+class Calendar
+  # Create a new instance of Calendar
   #
   # ==== Examples
   #
-  #   CalendarMonth.new
-  #   CalendarMonth.new(10, 2021)
+  #   Calendar.new
+  #   Calendar.new(10, 2021)
   #
   # @param year [Integer] year, optional
   # @param month [Integer] month, optional
