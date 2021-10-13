@@ -2,4 +2,4 @@
 
 require_relative '../lib/calendar_tools'
 
-CurrentMonth.new.print
+CalendarMonth.new.print

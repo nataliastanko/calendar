@@ -4,5 +4,5 @@
 # Provides calendar tool
 module CalendarTools
   require 'date'
-  require_relative 'calendar_tools/current_month'
+  require_relative 'calendar_tools/calendar_month'
 end

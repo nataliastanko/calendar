@@ -16,7 +16,7 @@ Example:
 # Requirements
 
     bundle install
-    chmod o+x ./bin/current_month
+    chmod o+x ./bin/calendar_month
 
 # Run
 
@@ -26,3 +26,8 @@ Example:
 
     rubocop
     rspec
+
+## TODO
+
+- test any month, not only current
+- check tests coverage
