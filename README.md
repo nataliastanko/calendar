@@ -29,5 +29,5 @@ Example:
 
 ## TODO
 
-- test any month, not only current
+- print consecutive days
 - check tests coverage
