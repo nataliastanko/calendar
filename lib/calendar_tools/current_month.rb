@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-require 'date'
-
 ##
 # Calendar for current month
-class Calendar
+class CurrentMonth
   DAYS_IN_MONTH = {
     'October' => 31,
     'November' => 30
