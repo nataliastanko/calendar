@@ -16,11 +16,11 @@ Example:
 # Requirements
 
     bundle install
-    chmod o+x ./bin/calendar
+    chmod +x ./bin/calendar
 
 # Run
 
-    ./bin/cal
+    ./bin/calendar
 
 ## Test
 
